@@ -8,19 +8,19 @@ This project is my submission the "Flutter Puzzle Hack 2022". The application ke
 ## Android
 <table border =0>
 <tr>
-<td><img src "screenshots/android_1.png></td>
-<td><img src "screenshots/android_2.png></td>
-<td><img src "screenshots/android_3.png></td>
-<td><img src "screenshots/android_4.png></td>
+<td><img src="screenshots/android_1.png></td>
+<td><img src="screenshots/android_2.png></td>
+<td><img src="screenshots/android_3.png></td>
+<td><img src="screenshots/android_4.png></td>
 </tr>
 </table>
 
 ## iOS
 <table border =0>
 <tr>
-<td><img src "screenshots/ios_1.png></td>
-<td><img src "screenshots/ios_2.png></td>
-<td><img src "screenshots/ios_3.png></td>
+<td><img src="screenshots/ios_1.png></td>
+<td><img src="screenshots/ios_2.png></td>
+<td><img src="screenshots/ios_3.png></td>
 
 </tr>
 </table>
